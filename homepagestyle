@@ -1,0 +1,309 @@
+/* Rectangle 1 */
+
+position: absolute;
+width: 205.5px;
+height: 185px;
+left: 0px;
+top: 0px;
+
+background: #000000;
+
+/* EVGENIA */
+
+position: absolute;
+width: 161px;
+height: 32px;
+left: 8px;
+top: 145px;
+
+font-family: Rokkitt;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 41px;
+
+color: #FBFBFB;
+
+/* GEORGIEVA */
+
+position: absolute;
+width: 177px;
+height: 36px;
+right: 72px;
+bottom: 514px;
+
+font-family: Rokkitt;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 36px;
+display: flex;
+align-items: center;
+
+color: #FEFEFE;
+
+border: 1px solid #000000;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+transform: rotate(-90deg);
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 205.5px;
+height: 185px;
+left: 205px;
+top: 185px;
+
+background: rgba(152, 234, 124, 0.73);
+
+/* FRONT-END WEB DEVELOPER */
+
+position: absolute;
+width: 191px;
+height: 16px;
+left: 212px;
+top: 245px;
+
+font-family: Rokkitt;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* GRAPHIC DESGINER */
+
+position: absolute;
+width: 130px;
+height: 16px;
+left: 246px;
+top: 277px;
+
+font-family: Rokkitt;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* PROGRAMMER */
+
+position: absolute;
+width: 95px;
+height: 16px;
+left: 260px;
+top: 309px;
+
+font-family: Rokkitt;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 205.5px;
+height: 185px;
+left: 1px;
+top: 370px;
+
+background: #ADA7A7;
+
+/* ABOUT ME > */
+
+position: absolute;
+width: 81px;
+height: 16px;
+left: 64px;
+top: 413px;
+
+font-family: Rokkitt;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* < PORTFOLIO */
+
+position: absolute;
+width: 86px;
+height: 16px;
+left: 61px;
+top: 455px;
+
+font-family: Rokkitt;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* CONTACT > */
+
+position: absolute;
+width: 75px;
+height: 16px;
+left: 72px;
+top: 497px;
+
+font-family: Rokkitt;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 205.5px;
+height: 176px;
+left: 208px;
+top: 555px;
+
+background: #000000;
+
+/* FIND ME ON SOCIAL MEDIA */
+
+position: absolute;
+width: 180px;
+height: 16px;
+left: 218px;
+top: 583px;
+
+font-family: Rokkitt;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #F7F7F7;
+
+/* 4 @EVGENIAGEORGIEVA */
+
+position: absolute;
+width: 157px;
+height: 16px;
+left: 219px;
+top: 627px;
+
+font-family: Rokkitt;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+/* 4 @EVGENIAa */
+
+position: absolute;
+width: 86px;
+height: 16px;
+left: 219px;
+top: 659px;
+
+font-family: Rokkitt;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+/* 4 @EVGENIAa */
+
+position: absolute;
+width: 86px;
+height: 16px;
+left: 219px;
+top: 691px;
+
+font-family: Rokkitt;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #FCFCFC;
+
+/* 39321520-funny-giraffe-party-animal-making-a-silly-face-and-blowing-a-noisemaker 1 */
+
+position: absolute;
+width: 206px;
+height: 186px;
+left: 205px;
+top: 0px;
+
+background: url(39321520-funny-giraffe-party-animal-making-a-silly-face-and-blowing-a-noisemaker.jpg);
+
+/* 39321520-funny-giraffe-party-animal-making-a-silly-face-and-blowing-a-noisemaker 2 */
+
+position: absolute;
+width: 209px;
+height: 185px;
+left: -2px;
+top: 185px;
+
+background: url(39321520-funny-giraffe-party-animal-making-a-silly-face-and-blowing-a-noisemaker.jpg);
+
+
+/* 39321520-funny-giraffe-party-animal-making-a-silly-face-and-blowing-a-noisemaker 3 */
+
+position: absolute;
+width: 206px;
+height: 185px;
+left: 205px;
+top: 370px;
+
+background: url(39321520-funny-giraffe-party-animal-making-a-silly-face-and-blowing-a-noisemaker.jpg);
+
+/* 39321520-funny-giraffe-party-animal-making-a-silly-face-and-blowing-a-noisemaker 4 */
+
+position: absolute;
+width: 204px;
+height: 176px;
+left: 1px;
+top: 555px;
+
+background: url(39321520-funny-giraffe-party-animal-making-a-silly-face-and-blowing-a-noisemaker.jpg);
+
